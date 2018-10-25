@@ -7,20 +7,20 @@
             <nav id="fh5co-menu-wrap" role="navigation">
                 <ul class="sf-menu" id="fh5co-primary-menu">
                     <li class="active">
-                        <a href="/">Home</a></li>
+                        <a href="/main">Головна</a></li>
                     <li>
-                        <a href="/1" class="fh5co-sub-ddown">Properties</a>
+                        <a href="/properties" class="fh5co-sub-ddown">Пропозиції</a>
                         <ul class="fh5co-sub-menu">
-                            <li><a href="#">Family</a></li>
-                            <li><a href="#">CSS3 &amp; HTML5</a></li>
-                            <li><a href="#">Angular JS</a></li>
-                            <li><a href="#">Node JS</a></li>
-                            <li><a href="#">Django &amp; Python</a></li>
+                            <li><a href="/sities">Міста</a></li>
+                            <li><a href="#">Готелі</a></li>
+                            <li><a href="#">Квартири</a></li>
+                            <li><a href="#">Хостели</a></li>
+                            <li><a href="#">Кемпіги</a></li>
                         </ul>
                     </li>
-                    <li><a href="/2">Agent</a></li>
-                    <li><a href="/3">Blog</a></li>
-                    <li><a href="/4">Contact</a></li>
+                    <li><a href="/agent">Агент</a></li>
+                    <li><a href="/blog">Блог</a></li>
+                    <li><a href="/contact">Зв'язок</a></li>
                 </ul>
             </nav>
         </div>

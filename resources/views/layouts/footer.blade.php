@@ -10,12 +10,12 @@
             <div class="col-md-3 col-md-push-1">
                 <h3 class="section-title">Links</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Properties</a></li>
-                    <li><a href="#">Agent</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="/main">Головна</a></li>
+                    <li><a href="/properties">Пропозиції</a></li>
+                    <li><a href="/agent">Агент</a></li>
+                    <li><a href="/agent">Блог</a></li>
                     <li><a href="#">API</a></li>
-                    <li><a href="#">FAQ / Contact</a></li>
+                    <li><a href="/contact">Контакти</a></li>
                 </ul>
             </div>
 

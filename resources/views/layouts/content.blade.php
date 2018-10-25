@@ -6,5 +6,5 @@
 @include('mainContent/testimonial')
 @include('mainContent/properties')
 @include('mainContent/aboutAgent')
-@include('mainContent/blogSection')
+@include('mainContent/blog')
 @include('mainContent/contactUs')

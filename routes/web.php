@@ -13,18 +13,21 @@
 
 /* Подключение страниц ресурса*/
 
-Route::get('/', function () {
+Route::get('/main', function () {
     return view('main');
 });
-Route::get('/1', function () {
+Route::get('/properties', function () {
     return view('properties');
 });
-Route::get('/2', function () {
+Route::get('/agent', function () {
     return view('agent');
 });
-Route::get('/3', function () {
+Route::get('/blog', function () {
     return view('blog');
 });
-Route::get('/4', function () {
+Route::get('/contact', function () {
     return view('contact');
+});
+Route::get('/sities', function () {
+    return view('sities');
 });
