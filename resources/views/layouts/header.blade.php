@@ -11,7 +11,7 @@
                     <li>
                         <a href="/properties" class="fh5co-sub-ddown">Пропозиції</a>
                         <ul class="fh5co-sub-menu">
-                            <li><a href="/sities">Міста</a></li>
+                            <li><a href="/cities">Міста</a></li>
                             <li><a href="#">Готелі</a></li>
                             <li><a href="#">Квартири</a></li>
                             <li><a href="#">Хостели</a></li>

@@ -28,6 +28,6 @@ Route::get('/blog', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/sities', function () {
-    return view('sities');
+Route::get('/cities', function () {
+    return view('cities');
 });
