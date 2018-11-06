@@ -18,7 +18,7 @@
                             <li><a href="#">Кемпіги</a></li>
                         </ul>
                     </li>
-                    <li><a href="/agent">Агент</a></li>
+                    {{--<li><a href="/agent">Агент</a></li>--}}
                     <li><a href="/blog">Блог</a></li>
                     <li><a href="/contact">Зв'язок</a></li>
                 </ul>

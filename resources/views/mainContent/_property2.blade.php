@@ -2,7 +2,7 @@
             <div class="col-md-4 animate-box">
                 <div class="property">
                     <a href="#" class="fh5co-property" style="background-image: url(https://doba.ua/ivano-frankovsk/1000480146.html);">
-                        <span class="status">Sale</span>
+                        <span class="status">rent</span>
                         <ul class="list-details">
                             <li>2000 ft sq<li>
                             <li>5 Bedroom:</li>
