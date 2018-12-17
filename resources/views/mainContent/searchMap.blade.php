@@ -16,7 +16,7 @@
                             <option value="" disabled selected>будь-що</option>
                             <option value="1">На добу</option>
                             <option value="2">На тиждень</option>
-                            <option value="3">На мысяць</option>
+                            <option value="3">На місяць</option>
                             <option value="1">До року</option>
                         </select>
                     </section>
